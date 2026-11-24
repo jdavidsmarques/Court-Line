@@ -1,0 +1,6 @@
+{
+  "name": "CourtLine · ATP & WTA Match Schedule",
+  "description": "Desktop application to browse daily ATP and WTA tennis matches with Top 100 official rankings, organized by tournament and time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
